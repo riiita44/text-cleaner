@@ -1,4 +1,3 @@
-
 # Text Cleaner
 
 ## 概要 / Overview
@@ -54,3 +53,13 @@ python3 text_cleaner.py -h
 ## ライセンス / License
 
 MIT License
+
+## 作者 / Author
+
+Created by RYOTA OKANO
+
+## 開発環境 / Development Environment
+
+- OS: Ubuntu
+- Language: Python 3
+- Version Control: Git
