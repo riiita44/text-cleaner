@@ -1,3 +1,6 @@
+# Copyright (c) 2026 RYOTA OKANO
+# SPDX-License-Identifier: MIT
+
 import sys
 import argparse
 
